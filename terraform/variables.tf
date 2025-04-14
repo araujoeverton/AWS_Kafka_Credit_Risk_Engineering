@@ -129,3 +129,26 @@ variable "rds_multi_az" {
   type    = bool
   default = false
 }
+
+# Lake Formation Variables
+variable "lakeformation_admin_arn" {
+  type    = string
+  description = "ARN do usuário ou role administrador do Lake Formation"
+}
+
+variable "lakeformation_principal_arn" {
+  type    = string
+  description = "ARN do principal (usuário ou role) ao qual conceder permissões"
+}
+
+variable "glue_database_name" {
+  type    = string
+  default = "default"
+  description = "Nome do banco de dados do AWS Glue"
+}
+
+variable "glue_table_name" {
+  type    = string
+  default = "mytable"
+  description = "Nome da tabela do AWS Glue"
+}
