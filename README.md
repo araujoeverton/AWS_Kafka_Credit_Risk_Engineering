@@ -21,6 +21,8 @@ Seja muito bem vindos(as) a esta jornada!
 - Amazon Managed Streaming for Apache Kafka (Amazon MSK)
 - EC2
 - RDS Postgres
+- Terraform
+- EMR
 
 
 ### Repositório destinado à estudos e documentação.
