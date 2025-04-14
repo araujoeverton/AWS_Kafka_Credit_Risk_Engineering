@@ -1,37 +1,29 @@
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/AWS_Kafka_Credit_Risk_Engineering/refs/heads/main/assets/Thumb_AWS_Kafka_Credit_Risk_Engineering.jpg" width="1080"/> ...
 
 
 
 <img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/Apache_kafka_wordtype.svg" width="200"/>
 
-# Autorização de Uso
+### Autorização de Uso
 ### 1. Salve uma cópia e utilize o material deste repositório para estudo!
-<a href="https://github.com//araujoeverton/XP_Bootcamp_Engenharia_de_Dados//fork">
+<a href="https://github.com/araujoeverton/AWS_Kafka_Credit_Risk_Engineering/fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-## Detalhes da formação
+## Detalhes do Projeto
 
-A XP Investimentos investe em formação e conhecimento! Um dos bancos líderes de mercado e em inovação preparou o Bootcamp Engenheiro de Dados!
+Em um universo de dados financeiros em constante ebulição, onde cada transação trás à tona um potencial risco, surge a necessidade de uma bússola precisa para navegar pelas turbulentas águas do crédito. Imagine um sistema nervoso digital, capaz de captar cada tremor nesse oceano informacional, processando-o em tempo real para discernir padrões e prever as ondas de inadimplência antes que elas sequer se formem.
 
-O objetivo é simples: Formar profissionais capazes de trabalhar com Engenharia de Dados na construção de pipelines de dados e em outras soluções de dados que requeiram etapas de coleta, preparação, armazenamento e processamento de dados.
+Este projeto de engenharia de dados não é apenas sobre construir tópicos em **Amazon Managed Streaming for Apache Kafka (Amazon MSK)** para o fluxo de informações; é sobre forjar uma inteligência preditiva robusta. Ao orquestrar a escalabilidade e a confiabilidade da **Amazon Web Services (AWS)** com a agilidade e o poder de processamento de eventos do **Kafka**, embarcamos em uma jornada para transformar dados brutos em insights acionáveis. 
+Seja muito bem vindos(as) a esta jornada!
 
-Conhecer as técnicas e tecnologias usadas na construção do pipeline de dados (data flow) que envolvem processos de coleta, preparação, armazenamento e acesso a dados, além da integração e combinação de diferentes fontes de dados.
-
-Durante dois meses, iremos imergir no mundo da engenharia de dados, e trazer uma solução real e completa, que abrande um projeto de streaming de dados com Apache Kafka!
-Seja muito bem vindo(a) a esta jornada!
-
-### Atividades:
-
-Aulas gravadas: As aulas são gravadas, divididas em 5 módulos que totalizam 32 horas de duração.
-
-Aulas interativas (Live): Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
-
-Desafio Final: Construção de um projeto End-to-End, utilizando o aclamado Apache Kafka.
+### Stack Utilizada:
+- Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+- EC2
+- RDS Postgres
 
 
-
-### Repositório destinado à estudos e documentação do projeto de formação.
+### Repositório destinado à estudos e documentação.
 
 
 <div align="center">
